@@ -1,0 +1,4 @@
+use ('validation_5A')
+
+db.users.find()
+

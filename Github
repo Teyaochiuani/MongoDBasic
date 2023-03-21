@@ -1,0 +1,9 @@
+echo "# MongoDBasic" >> README.md
+git init
+git add .
+git commit -m "MJHJ | 01,02,03 MongoDB"
+
+echo "# MongoDBasic" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
